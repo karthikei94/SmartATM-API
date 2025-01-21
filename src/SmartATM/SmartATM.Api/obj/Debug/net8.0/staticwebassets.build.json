@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PM1kZFW3fUMczvwHuYTJgWCZT0/ugk250+bk6LdSsvo=",
+  "Source": "SmartATM.Api",
+  "BasePath": "_content/SmartATM.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

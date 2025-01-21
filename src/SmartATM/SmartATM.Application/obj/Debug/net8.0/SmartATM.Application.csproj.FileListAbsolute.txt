@@ -1,0 +1,11 @@
+C:\Workspace\dotnet\SmartATM\src\SmartATM\SmartATM.Application\bin\Debug\net8.0\SmartATM.Application.deps.json
+c:\Workspace\dotnet\SmartATM\src\SmartATM\SmartATM.Application\bin\Debug\net8.0\SmartATM.Application.dll
+c:\Workspace\dotnet\SmartATM\src\SmartATM\SmartATM.Application\bin\Debug\net8.0\SmartATM.Application.pdb
+c:\Workspace\dotnet\SmartATM\src\SmartATM\SmartATM.Application\obj\Debug\net8.0\SmartATM.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Workspace\dotnet\SmartATM\src\SmartATM\SmartATM.Application\obj\Debug\net8.0\SmartATM.Application.AssemblyInfoInputs.cache
+c:\Workspace\dotnet\SmartATM\src\SmartATM\SmartATM.Application\obj\Debug\net8.0\SmartATM.Application.AssemblyInfo.cs
+c:\Workspace\dotnet\SmartATM\src\SmartATM\SmartATM.Application\obj\Debug\net8.0\SmartATM.Application.csproj.CoreCompileInputs.cache
+c:\Workspace\dotnet\SmartATM\src\SmartATM\SmartATM.Application\obj\Debug\net8.0\SmartATM.Application.dll
+c:\Workspace\dotnet\SmartATM\src\SmartATM\SmartATM.Application\obj\Debug\net8.0\refint\SmartATM.Application.dll
+c:\Workspace\dotnet\SmartATM\src\SmartATM\SmartATM.Application\obj\Debug\net8.0\SmartATM.Application.pdb
+C:\Workspace\dotnet\SmartATM\src\SmartATM\SmartATM.Application\obj\Debug\net8.0\ref\SmartATM.Application.dll
